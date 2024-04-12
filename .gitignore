@@ -1,0 +1,20 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ProgramacionWebII-Actividad-Complementaria-CSharp/obj/project.nuget.cache
+/ProgramacionWebII-Actividad-Complementaria-CSharp/obj/ProgramacionWebII-Actividad-Complementaria-CSharp.csproj.nuget.dgspec.json
+/ProgramacionWebII-Actividad-Complementaria-CSharp/obj/ProgramacionWebII-Actividad-Complementaria-CSharp.csproj.nuget.g.props
+/ProgramacionWebII-Actividad-Complementaria-CSharp/obj/project.assets.json
+/ProgramacionWebII-Actividad-Complementaria-CSharp/obj/Debug/netstandard2.1/ProgramacionWebII-Actividad-Complementaria-CSharp.AssemblyInfo.cs
+/ProgramacionWebII-Actividad-Complementaria-CSharp/obj/Debug/netstandard2.1/ProgramacionWebII-Actividad-Complementaria-CSharp.AssemblyInfoInputs.cache
+/ProgramacionWebII-Actividad-Complementaria-CSharp/obj/Debug/netstandard2.1/ProgramacionWebII-Actividad-Complementaria-CSharp.assets.cache
+/ProgramacionWebII-Actividad-Complementaria-CSharp/obj/Debug/netstandard2.1/ProgramacionWebII-Actividad-Complementaria-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/ProgramacionWebII-Actividad-Complementaria-CSharp/obj/Debug/netstandard2.1/LibreriaDeClases.AssemblyInfo.cs
+/ProgramacionWebII-Actividad-Complementaria-CSharp/obj/Debug/netstandard2.1/LibreriaDeClases.AssemblyInfoInputs.cache
+/ProgramacionWebII-Actividad-Complementaria-CSharp/obj/Debug/netstandard2.1/LibreriaDeClases.assets.cache
+/ProgramacionWebII-Actividad-Complementaria-CSharp/obj/Debug/netstandard2.1/LibreriaDeClases.GeneratedMSBuildEditorConfig.editorconfig
+/ProgramacionWebII-Actividad-Complementaria-CSharp/obj/*
+/ProgramacionWebII-Actividad-Complementaria-CSharp/obj/Debug/*
+/ProgramacionWebII-Actividad-Complementaria-CSharp/debug/*

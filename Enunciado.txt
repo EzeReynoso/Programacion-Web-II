@@ -1,0 +1,21 @@
+﻿
+Actividad de reconocimiento de objetos
+
+Objetivo: Identificación de objetos en texto con requerimientos
+
+Que debo hacer?
+Según el texto proporcionado, leer detenidamente y detectar los objetos que incluiremos en nuestro sistema.
+Una vez identificados, crear un proyecto de librería de clases y agregar las clases que corresponda con sus propiedades, métodos y funciones correspondientes.
+
+Descripción de sistema solicitado
+Se necesita crear un sistema para un local de pedidos de hamburguesas. Los empleados acceden con sus respectivas credenciales. En este sistema de pedidos se registran las hamburguesas que tiene disponible el local, los pedidos y su estado. También se podrá saber los ingredientes de cada hamburguesa para su posterior producción. 
+
+
+Una pista...
+Como minimo crear las clases:
+Usuarios
+Hamburguesas
+Ingredientes
+Pedidos
+
+
